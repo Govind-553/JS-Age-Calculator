@@ -22,5 +22,5 @@ in years, months, and days based on the date you input! 🗓️
    * Days 🌟
 
 ### 📸 Preview
-👉 Click below to visit the live demo!
-[![Live Demo](https://govind-553.github.io/JS-Age-Calculator/)]
+👉 Click below to visit the live demo!<br>
+**Link:** (https://govind-553.github.io/JS-Age-Calculator/)
